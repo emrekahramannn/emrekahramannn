@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm Emre Kahraman</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
+- 🌱 I’m currently learning **Full-stack Web Development**
+
+- 👨‍💻 All of my projects are available at [https://emrekahraman.netlify.app/](https://emrekahraman.netlify.app/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/emrekahramann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emrekahramann" height="30" width="40" /></a>
+<a href="https://instagram.com/emrekkahraman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emrekkahraman" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
